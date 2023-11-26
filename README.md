@@ -1,4 +1,4 @@
-# Career Track Analysis With SQL And Tableau Project
+# Career Track Analysis 
 
 Exploring Student Enrollments and Completions in Data-Related Career Tracks 
 
